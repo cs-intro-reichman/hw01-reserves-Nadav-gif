@@ -4,7 +4,7 @@
  */
 import java.util.Random;
 
-public class Gen3 {
+public class GenThree {
 	public static void main(String[] args) {
 		int lower = Integer.parseInt(args[0]);
 		int upper = Integer.parseInt(args[1]);
